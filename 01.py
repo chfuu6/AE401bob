@@ -6,3 +6,4 @@ y = 79
 z = -39
 
 mc.player.setTilePos(x,y,z)
+dfd
